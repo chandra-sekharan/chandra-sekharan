@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm chandra shekar
+
+
+### I'm a full stack web developer 🖥 from 🇮🇳
+---
+### Languages and Tools
 
 <!--
 **chandra-sekharan/chandra-sekharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
